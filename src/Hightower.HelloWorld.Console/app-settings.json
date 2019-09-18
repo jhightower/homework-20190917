@@ -1,0 +1,4 @@
+﻿{
+	"IApp": "Hightower.HelloWorld.Core.AppConsole, Hightower.HelloWorld.Core",
+	"IHelloWorldService": "Hightower.HelloWorld.Core.HelloWorldService, Hightower.HelloWorld.Core"
+}
